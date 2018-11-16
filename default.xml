@@ -14,5 +14,5 @@
   <default remote="snail71" revision="master"/>
 
   <project name="opi2g-root.git" path="opi2gsrc" upstream="snail71"/>
-  
+  <project name="opi2g-u-boot.git" path="opi2gsrc/u-boot" upstream="snail71"/>
 </manifest>
