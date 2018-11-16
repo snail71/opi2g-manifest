@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Copyright 2018, Steve Nail 
+     
+     This software may be distributed and modified according to the terms of
+     the BSD 2-Clause license. Note that NO WARRANTY is provided.
+     See "LICENSE_BSD2.txt" for details.
+     
+-->
+<manifest>
+  <remote fetch="." name="snail71"/>
+  <remote fetch="../opi2g" name="opi2g"/>
+
+  <default remote="snail71" revision="master"/>
+
+  <project name="opi2g-root.git" path="opi2gsrc" upstream="snail71"/>
+  
+</manifest>
